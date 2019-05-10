@@ -1,2 +1,2 @@
 # my-website
-Just learning Github in Depth
+Creating the website and learning the github
